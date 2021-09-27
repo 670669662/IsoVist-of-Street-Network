@@ -13,9 +13,9 @@ Before you start：
 Color and graphic Display
 - orange：isoview bases on human position
 - White：Berlin Wall (or other city barrier)
-- Green: Park Area
-- Pink: Start Point
-- blue: End point
+- Green: Park area
+- Pink: Start point
+- Blue: End point
 
 Note：
 1. Please try to keep the osm file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
