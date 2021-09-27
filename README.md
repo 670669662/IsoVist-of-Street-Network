@@ -1,44 +1,55 @@
 
-# 2D Isovist and Pedestrian trajectory
+# 2D IsoView movement Comparison
 
 ## Introduction
-This algorithm is for mimics Pedestrian's trajectory in the city while filtering Visible range and marking out the information of the surrounding buildings they see.
+The purpose of the grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduces the concept of segmentation and comparison, so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
 
-The project uses two grasshopper plug-ins, 'caribou' and 'decodingSapce'.
+Before you start：
 
-## Example
-![01](https://user-images.githubusercontent.com/70087271/130240732-769e06e4-6d7d-44c8-9ad6-96e70d18b2c8.png)
-![02](https://user-images.githubusercontent.com/70087271/130240739-162b4ea7-9886-4fed-bda7-d4cb56ca0a3a.png)
-![03](https://user-images.githubusercontent.com/70087271/130240744-109e7db4-4302-4284-be5f-11e3d84d42fb.jpg)
+- Grasshopper in rhino 6/7
+- Install “caribou”plugin ＆ “Decoding scape" （You can download it through rhino's package manager or food 4rhino）
+- Use open streetmap download data （You can download data from this website “openstreetmap.org/#map=5/38.007/-95.844”
 
-## Use
+Color and graphic Display
+- orange：isoview bases on human position
+- White：Berlin Wall (or other city barrier)
+- Green: Park Area
+- Pink: Start Point
+- blue: End point
 
-- Step 1
+Note：
+1. Please try to keep the osm file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
+2. After loading the file, please give the computer a few minutes to extract the osm data
+3. Users can selectively turn on the isoviewGPU acceleration module according to their computer configuration to increase the calculation speed
 
-Use caribou to select building information and output redundant buildings without specific information.
-![Step 1](https://user-images.githubusercontent.com/70087271/130242282-9d50c405-f1dd-46db-91b4-e23157778441.png)
+## Operating Procedures
+
+01.Plugin frame work
+
+![微信图片_20210927114321-01](https://user-images.githubusercontent.com/70087271/134842852-7adbf9ff-395c-410a-93c9-ba9276879a5d.jpg)
+
+02.Plugin Operation
+
+![微信图片_20210927115410](https://user-images.githubusercontent.com/70087271/134843183-dc8a327a-269f-4429-b168-8f94ec3dd2ab.png)
+
+## Operating Reults
+
+01.Isoview Comparison
+
+![1632710287(1)](https://user-images.githubusercontent.com/70087271/134843207-b6c55556-e406-4e56-b568-9d94cd070bee.jpg)
+
+02.Optional Comparison Data
+
+![1632710755(1)](https://user-images.githubusercontent.com/70087271/134843285-02a7a641-b9a4-42b4-8247-f884e46885ab.png)
+![微信图片_202109271107191](https://user-images.githubusercontent.com/70087271/134843289-b57fbe3d-8b50-4f28-8967-eaf32eb5b861.png)
 
 
-- Step 2
-
-Select motion trajectory and perform time simulation.
-![Step 2](https://user-images.githubusercontent.com/70087271/130242290-48af050c-7b50-4fed-97e2-c33653644c14.png)
 
 
 
-- Step 3
-
-Use the core command isovist to perform calculations. Note that you can use gpu to improve operating efficiency.
-
-![Step 3](https://user-images.githubusercontent.com/70087271/130242298-aedbcd95-8d53-41f3-a34a-b2f1bdcb1965.png)
 
 
 
-- Step 4
-
-Simulate the people's field of vision during walking, and at the same time select the obstructive buildings that people see, and visualize the basic information of these buildings in real time.
-
-![Step 4](https://user-images.githubusercontent.com/70087271/130242303-2df4bd9a-b997-45a2-841a-fd409dc9250d.png)
 
 
 
