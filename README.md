@@ -1,5 +1,5 @@
 
-# 2D IsoView movement Comparison
+# IsoView of Streetnetwork comparison
 
 ## Introduction
 The purpose of the grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduces the concept of segmentation and comparison, so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
