@@ -2,7 +2,7 @@
 # IsoView of street network comparison
 
 ## Introduction
-The purpose of the grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
+The purpose of this grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
 
 Before you start：
 
@@ -24,12 +24,22 @@ Note：
 
 ## Operating Procedures
 
-01.Plugin frame work
+Plugin frame work
 
-![微信图片_20210927114321-01](https://user-images.githubusercontent.com/70087271/134842852-7adbf9ff-395c-410a-93c9-ba9276879a5d.jpg)
+![1633579496-01](https://user-images.githubusercontent.com/70087271/136319216-13f842a6-f79c-454e-b40d-489f7be45078.jpg)
 
-02.Plugin Operation
 
+01.Data collection
+
+02.Comparison range selection
+
+03.Shortest distance calculation
+
+04.IsoView calculation
+
+05.IsoView visulization
+
+06.HUman UI data visualization production chart
 
 ## Operating Reults
 
