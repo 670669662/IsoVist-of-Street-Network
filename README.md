@@ -129,6 +129,9 @@ https://caribou.philipbelesky.com/
 
 Dangschat, Jens S. “Berlin and the German Systems of Cities.” Urban studies (Edinburgh, Scotland) 30.6 (1993): 1025–1051. Web.
 
+Friedemann Kunst. “From Rail-Oriented to Automobile-Oriented Urban Development and Back. 100 Years of Paradigm Change and Transport Policy in Berlin.” TeMA (2016): 21–34. Web.
+
+
 
 
 
