@@ -4,18 +4,18 @@
 ## Introduction
 The purpose of this grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
 
-Before You Start：
+Before Start：
 
 - Grasshopper in rhino 6/7
 - Install “caribou”plugin（You can download it through rhino's package manager or food 4rhino）＆ “Decoding scape"(https://toolbox.decodingspaces.net/download-decodingspaces-toolbox/)
 - Use open streetmap download data （You can download data from this website “openstreetmap.org/#map=5/38.007/-95.844”
 
 Color and Graphic Display：
-- orange：isoview bases on human position
-- Black：Berlin Wall (or other city barrier)
-- Green: Park area
-- Pink: Start point
-- Blue: End point
+- orange：IsoView ases on human position
+- Black：berlin wall (or other city barrier)
+- Green: park area
+- Pink: start point
+- Blue: end point
 
 Note：
 1. Please try to keep the OSM file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
