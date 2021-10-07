@@ -74,6 +74,11 @@ Ste p05-IsoView Visulization
 - _Use remap and gradient and loft to visualize the process of IsoView generation_
 
 
+https://user-images.githubusercontent.com/70087271/136339583-0390485d-7d3d-4ba8-ab61-51e92f421272.mp4
+
+
+
+
 Step 06-HUman UI Data Visualization Production Charts
 
 - _Use Human UI to compare the data horizontally and vertically. Including single data comparison; overall data comparison; data average comparison_
