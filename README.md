@@ -20,7 +20,7 @@ Color and Graphic Display
 Note：
 1. Please try to keep the OSM file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
 2. After loading the file, please give the computer a few minutes to extract the osm data
-3. Users can selectively turn on the isoviewGPU acceleration module according to their computer configuration to increase the calculation speed
+3. Users can selectively turn on the isoview GPU acceleration module according to their computer configuration to increase the calculation speed
 
 ## Operating Procedures
 
