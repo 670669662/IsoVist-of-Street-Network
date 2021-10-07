@@ -127,4 +127,8 @@ https://toolbox.decodingspaces.net/tutorial-2d-and-3d-isovists-for-visibility-an
 https://caribou.philipbelesky.com/
 
 
+Dangschat, Jens S. “Berlin and the German Systems of Cities.” Urban studies (Edinburgh, Scotland) 30.6 (1993): 1025–1051. Web.
+
+
+
 
