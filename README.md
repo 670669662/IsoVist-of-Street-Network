@@ -56,17 +56,17 @@ Step 06-HUman UI Data Visualization Production Charts
 
 ## Operating Reults
 
-01.Static spatial distance comparison
+01.Static spatial Distance Comparison
 
 ![1633578597(1)](https://user-images.githubusercontent.com/70087271/136317653-188eb4e0-609a-4659-ac7b-57117a2e7682.png)
 
-02.Comprehensive IsoView data comparison
+02.Comprehensive IsoView Data Comparison
 
 
 ![1633578957(1)](https://user-images.githubusercontent.com/70087271/136317831-e74c7f1e-27e8-48fe-b8e2-6f03004c948d.png)
 
 
-03.Individual IsoView data comparison
+03.Individual IsoView Data Comparison
 
 ![1633578508(1)](https://user-images.githubusercontent.com/70087271/136317841-f5473a63-8d88-4588-a283-39b9f325a5f1.png)
 
