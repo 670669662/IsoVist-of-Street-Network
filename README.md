@@ -1,24 +1,24 @@
 
-# IsoView of Streetnetwork Comparison
+# IsoView of street network comparison
 
 ## Introduction
-The purpose of the grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduces the concept of segmentation and comparison, so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
+The purpose of the grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
 
 Before you start：
 
 - Grasshopper in rhino 6/7
-- Install “caribou”plugin ＆ “Decoding scape" （You can download it through rhino's package manager or food 4rhino）
+- Install “caribou”plugin（You can download it through rhino's package manager or food 4rhino）＆ “Decoding scape"(https://toolbox.decodingspaces.net/download-decodingspaces-toolbox/)
 - Use open streetmap download data （You can download data from this website “openstreetmap.org/#map=5/38.007/-95.844”
 
 Color and graphic Display
 - orange：isoview bases on human position
-- White：Berlin Wall (or other city barrier)
+- Black：Berlin Wall (or other city barrier)
 - Green: Park area
 - Pink: Start point
 - Blue: End point
 
 Note：
-1. Please try to keep the osm file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
+1. Please try to keep the OSM file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
 2. After loading the file, please give the computer a few minutes to extract the osm data
 3. Users can selectively turn on the isoviewGPU acceleration module according to their computer configuration to increase the calculation speed
 
@@ -30,18 +30,23 @@ Note：
 
 02.Plugin Operation
 
-![微信图片_20210927115410](https://user-images.githubusercontent.com/70087271/134843183-dc8a327a-269f-4429-b168-8f94ec3dd2ab.png)
 
 ## Operating Reults
 
-01.Isoview Comparison
+01.Static spatial distance comparison
 
-![1632710287(1)](https://user-images.githubusercontent.com/70087271/134843207-b6c55556-e406-4e56-b568-9d94cd070bee.jpg)
+![1633578597(1)](https://user-images.githubusercontent.com/70087271/136317653-188eb4e0-609a-4659-ac7b-57117a2e7682.png)
 
-02.Optional Comparison Data
+02.Comprehensive IsoView data comparison
 
-![1632710755(1)](https://user-images.githubusercontent.com/70087271/134843285-02a7a641-b9a4-42b4-8247-f884e46885ab.png)
-![微信图片_202109271107191](https://user-images.githubusercontent.com/70087271/134843289-b57fbe3d-8b50-4f28-8967-eaf32eb5b861.png)
+
+![1633578957(1)](https://user-images.githubusercontent.com/70087271/136317831-e74c7f1e-27e8-48fe-b8e2-6f03004c948d.png)
+
+
+03.Individual IsoView data comparison
+
+![1633578508(1)](https://user-images.githubusercontent.com/70087271/136317841-f5473a63-8d88-4588-a283-39b9f325a5f1.png)
+
 
 
 
