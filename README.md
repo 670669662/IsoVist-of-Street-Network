@@ -83,6 +83,14 @@ Step 06-HUman UI Data Visualization Production Charts
 
 - _Use Human UI to compare the data horizontally and vertically. Including single data comparison; overall data comparison; data average comparison_
 
+https://user-images.githubusercontent.com/70087271/136342435-80314396-9178-4ea8-837c-50dcf4b3781d.mp4
+
+
+
+
+
+
+
 ## Operating Reults
 
 01.Static spatial Distance Comparison
