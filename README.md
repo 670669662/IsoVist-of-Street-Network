@@ -10,7 +10,7 @@ Before You Start：
 - Install “caribou”plugin（You can download it through rhino's package manager or food 4rhino）＆ “Decoding scape"(https://toolbox.decodingspaces.net/download-decodingspaces-toolbox/)
 - Use open streetmap download data （You can download data from this website “openstreetmap.org/#map=5/38.007/-95.844”
 
-Color and Graphic Display
+Color and Graphic Display：
 - orange：isoview bases on human position
 - Black：Berlin Wall (or other city barrier)
 - Green: Park area
