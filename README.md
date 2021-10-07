@@ -42,11 +42,14 @@ Step 01-Data Collection
 
 Step 02-Comparison Range Selection
 
-https://user-images.githubusercontent.com/70087271/136333242-d59c8702-f408-4d67-847d-b26b575a50d5.mp4
-
-
-
 - _The points to be analyzed are selected by splitting the Berlin Wall and the analysis range is generated, and then classified according to the east and west sides_
+
+
+
+https://user-images.githubusercontent.com/70087271/136333406-15f9a472-1609-4259-9558-c70a6f88d67b.mp4
+
+
+
 
 Step 03-Shortest Distance Calculation
 
