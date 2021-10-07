@@ -34,11 +34,17 @@ Plugin Frame Work
 ![1633579496-01](https://user-images.githubusercontent.com/70087271/136319216-13f842a6-f79c-454e-b40d-489f7be45078.jpg)
 
 
-Step01-Data Collection
+Step 01-Data Collection
 
 - _Use Caribou to select the main and secondary roads and sidewalks in urban traffic for analysis, and then select the park in leisure as the green space to be analyzed_
+![s1_画板 1](https://user-images.githubusercontent.com/70087271/136331212-e235b778-6922-45d0-92e7-2c8579e55f83.jpg)
+
 
 Step 02-Comparison Range Selection
+
+https://user-images.githubusercontent.com/70087271/136333242-d59c8702-f408-4d67-847d-b26b575a50d5.mp4
+
+
 
 - _The points to be analyzed are selected by splitting the Berlin Wall and the analysis range is generated, and then classified according to the east and west sides_
 
@@ -66,6 +72,7 @@ Step 06-HUman UI Data Visualization Production Charts
 ![1633578597(1)](https://user-images.githubusercontent.com/70087271/136317653-188eb4e0-609a-4659-ac7b-57117a2e7682.png)
 
 02.Comprehensive IsoView Data Comparison
+
 
 
 ![1633578957(1)](https://user-images.githubusercontent.com/70087271/136317831-e74c7f1e-27e8-48fe-b8e2-6f03004c948d.png)
