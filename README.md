@@ -22,10 +22,26 @@ Note：
 - After loading the file, please give the computer a few minutes to extract the OSM data
 - Users can selectively turn on the isoview GPU acceleration module according to their computer configuration to increase the calculation speed
 
-## Operating Procedures
-
+## Operating Reults
 
 https://user-images.githubusercontent.com/70087271/136328529-a438f5eb-c0fb-44ef-bd24-a2eee596ba21.mp4
+
+01.Static spatial Distance Comparison
+
+![1633578597(1)](https://user-images.githubusercontent.com/70087271/136317653-188eb4e0-609a-4659-ac7b-57117a2e7682.png)
+
+02.Comprehensive IsoView Data Comparison
+
+
+
+![1633578957(1)](https://user-images.githubusercontent.com/70087271/136317831-e74c7f1e-27e8-48fe-b8e2-6f03004c948d.png)
+
+
+03.Individual IsoView Data Comparison
+
+![1633578508(1)](https://user-images.githubusercontent.com/70087271/136317841-f5473a63-8d88-4588-a283-39b9f325a5f1.png)
+
+## Operating Procedures
 
 
 
@@ -91,27 +107,6 @@ https://user-images.githubusercontent.com/70087271/136342435-80314396-9178-4ea8-
 
 
 
-## Operating Reults
-
-01.Static spatial Distance Comparison
-
-![1633578597(1)](https://user-images.githubusercontent.com/70087271/136317653-188eb4e0-609a-4659-ac7b-57117a2e7682.png)
-
-02.Comprehensive IsoView Data Comparison
-
-
-
-![1633578957(1)](https://user-images.githubusercontent.com/70087271/136317831-e74c7f1e-27e8-48fe-b8e2-6f03004c948d.png)
-
-
-03.Individual IsoView Data Comparison
-
-![1633578508(1)](https://user-images.githubusercontent.com/70087271/136317841-f5473a63-8d88-4588-a283-39b9f325a5f1.png)
-
-
-
-
-
 
 
 
@@ -122,14 +117,16 @@ https://user-images.githubusercontent.com/70087271/136342435-80314396-9178-4ea8-
 
 
 ## Reference
-https://toolbox.decodingspaces.net/tutorial-2d-and-3d-isovists-for-visibility-analysis/
-
-https://caribou.philipbelesky.com/
-
-
-Dangschat, Jens S. “Berlin and the German Systems of Cities.” Urban studies (Edinburgh, Scotland) 30.6 (1993): 1025–1051. Web.
-
-Friedemann Kunst. “From Rail-Oriented to Automobile-Oriented Urban Development and Back. 100 Years of Paradigm Change and Transport Policy in Berlin.” TeMA (2016): 21–34. Web.
+- [https://toolbox.decodingspaces.net/tutorial-2d-and-3d-isovists-for-visibility-analysis/](https://toolbox.decodingspaces.net/tutorial-2d-and-3d-isovists-for-visibility-analysis/)
+- [https://caribou.philipbelesky.com/](https://caribou.philipbelesky.com/)
+- Dangschat, Jens S. "Berlin and the German Systems of Cities." Urban studies (Edinburgh, Scotland) 30.6 (1993): 1025–1051. Web.
+- Friedemann Kunst. "From Rail-Oriented to Automobile-Oriented Urban Development and Back. 100 Years of Paradigm Change and Transport Policy in Berlin." TeMA (2016): 21–34. Web.
+- Rod Stephens: Find shortest paths in a network C#,2015
+- Allen, Stan. Points + Lines : Diagrams and Projects for the City. 1st ed. New York: Princeton Architectural Press, 1999. Print.
+- Lynch, Kevin. Good City Form. Cambridge, Mass: MIT Press, 1984. Print.
+- Davis, Brian. “Landscapes and Instruments.” Landscape Journal 32.2 (2013): 293–308. Web.
+- Liu, M, and S Nijhuis. “The Application of Advanced Mapping Methods and Tools for Spatial-Visual Analysis in Landscape Design Practice.” Sustainability (Basel, Switzerland) 13.14 (2021): 7952–. Web.
+- Aish, Robert. “First Build Your Tools.” Inside Smartgeometry. Chichester, West Sussex, United Kingdom: John Wiley & Sons Ltd, 2013. 36–49. Web.
 
 
 
