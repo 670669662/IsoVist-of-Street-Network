@@ -26,20 +26,31 @@ Note：
 
 https://user-images.githubusercontent.com/70087271/136328529-a438f5eb-c0fb-44ef-bd24-a2eee596ba21.mp4
 
-01.Static spatial Distance Comparison
-
-![1633578597(1)](https://user-images.githubusercontent.com/70087271/136317653-188eb4e0-609a-4659-ac7b-57117a2e7682.png)
-
-02.Comprehensive IsoView Data Comparison
 
 
+01.Comparison of static spatial distance between East Berlin and West Berlin
 
-![1633578957(1)](https://user-images.githubusercontent.com/70087271/136317831-e74c7f1e-27e8-48fe-b8e2-6f03004c948d.png)
+![1634297069(1)](https://user-images.githubusercontent.com/70087271/137479807-7950d665-2b61-4ec9-9f14-d90fae1ed65a.png)
+![1634297085(1)](https://user-images.githubusercontent.com/70087271/137479816-57aae3c6-6fdc-4bb9-81d3-6fbdc5509316.png)
 
 
-03.Individual IsoView Data Comparison
 
-![1633578508(1)](https://user-images.githubusercontent.com/70087271/136317841-f5473a63-8d88-4588-a283-39b9f325a5f1.png)
+
+
+02.Comparison of dynamic Isovist between East Berlin and West Berlin（All values）
+
+![1634297300(1)](https://user-images.githubusercontent.com/70087271/137480030-310a27b2-00ef-4c19-b144-705737e1338e.png)
+![1634297416(1)](https://user-images.githubusercontent.com/70087271/137480226-20e99f1b-b370-4557-a558-0fae25688958.png)
+
+
+
+
+02.Comparison of dynamic Isovist between East Berlin and West Berlin（Specific value）
+
+![1634297523(1)](https://user-images.githubusercontent.com/70087271/137480502-1c10e2f4-3bee-461b-8817-93d9ba88d8e2.png)
+![1634297652(1)](https://user-images.githubusercontent.com/70087271/137480609-cfc3b599-3706-42fa-9116-e54aa616e3ab.png)
+
+
 
 ## Operating Procedures
 
