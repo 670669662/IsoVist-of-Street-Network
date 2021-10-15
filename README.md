@@ -16,6 +16,8 @@ Color and Graphic Display：
 - Green: park area
 - Pink: start point
 - Blue: end point
+![color range-01.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b6f392b-b547-409b-b90f-2e52088fb2f4/color_range-01.jpg)
+                                
 
 Note：
 - Please try to keep the OSM file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
