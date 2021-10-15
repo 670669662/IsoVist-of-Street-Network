@@ -2,7 +2,7 @@
 # IsoVist of Street Network Comparison
 
 ## Introduction
-The purpose of this grasshopper plug-in development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The plug-in is different from other isoview plug-ins in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
+The purpose of this grasshopper tool development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The tool is different from other isoview tool in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
 
 Before Start：
 
@@ -16,11 +16,12 @@ Color and Graphic Display：
 - Green: park area
 - Pink: start point
 - Blue: end point
-![color range-01.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b6f392b-b547-409b-b90f-2e52088fb2f4/color_range-01.jpg)
-                                
 
+![1634297778(1)](https://user-images.githubusercontent.com/70087271/137480799-388cb65d-26dc-46b6-83a7-86284ea5e914.png)
+
+                            
 Note：
-- Please try to keep the OSM file size within 100mb, too large files will cause the plug-in to crash or the computer crashes
+- Please try to keep the OSM file size within 100mb, too large files will cause the tool to crash or the computer crashes
 - After loading the file, please give the computer a few minutes to extract the OSM data
 - Users can selectively turn on the isoview GPU acceleration module according to their computer configuration to increase the calculation speed
 
@@ -39,7 +40,7 @@ https://user-images.githubusercontent.com/70087271/136328529-a438f5eb-c0fb-44ef-
 
 
 
-02.Comparison of dynamic Isovist between East Berlin and West Berlin（All values）
+02.Comparison of dynamic Isovist between East Berlin and West Berlin（All Values）
 
 ![1634297300(1)](https://user-images.githubusercontent.com/70087271/137480030-310a27b2-00ef-4c19-b144-705737e1338e.png)
 ![1634297416(1)](https://user-images.githubusercontent.com/70087271/137480226-20e99f1b-b370-4557-a558-0fae25688958.png)
@@ -47,7 +48,7 @@ https://user-images.githubusercontent.com/70087271/136328529-a438f5eb-c0fb-44ef-
 
 
 
-02.Comparison of dynamic Isovist between East Berlin and West Berlin（Specific value）
+02.Comparison of dynamic Isovist between East Berlin and West Berlin（Specific Value）
 
 ![1634297523(1)](https://user-images.githubusercontent.com/70087271/137480502-1c10e2f4-3bee-461b-8817-93d9ba88d8e2.png)
 ![1634297652(1)](https://user-images.githubusercontent.com/70087271/137480609-cfc3b599-3706-42fa-9116-e54aa616e3ab.png)
@@ -58,7 +59,7 @@ https://user-images.githubusercontent.com/70087271/136328529-a438f5eb-c0fb-44ef-
 
 
 
-Plugin Frame Work
+Tool Frame Work
 
 ![1633579496-01](https://user-images.githubusercontent.com/70087271/136319216-13f842a6-f79c-454e-b40d-489f7be45078.jpg)
 
