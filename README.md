@@ -4,6 +4,9 @@
 ## What is Isovist
 A single isovist is the volume of space visible from a given point in space, together with a specification of the location of that point. It is a geometric concept coined by Clifford Tandy in 1967 and further refined by the architect Michael Benedikt.
 
+Isovist values defination page:
+https://isovists.org/user-guide/4-2-1-area/ 
+
 ## Tool Introduction
 The purpose of this grasshopper tool development is to facilitate urban designers and landscape designers to compare the value of isoview on the way when the road traffic reaches the green space. The tool is different from other isoview tool in that it introduced the comparison between the most calculated distance and the specific IsoView value (Area, degree of closure, elongation, etc.), so as to facilitate the designer to compare the difference between the past and the current planning or the difference between different parts of the city.
 
